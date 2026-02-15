@@ -1,0 +1,12 @@
+Entropy Plain: 7.5532
+Entropy Encrypted: 7.9996
+Entropy Decrypted: 7.5532
+Correlation Plain: 0.9804
+Correlation Encrypted: 0.0034
+Correlation Decrypted: 0.9804
+MSE (Plain-Encrypted): 12668.5618
+MSE (Plain-Decrypted): 0.0000
+PSNR (Plain-Encrypted): 7.1035
+PSNR (Plain-Decrypted): inf
+NPCR (%): 99.6124
+UACI (%): 36.1328
